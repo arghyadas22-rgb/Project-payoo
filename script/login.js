@@ -13,7 +13,7 @@ document.getElementById("login-btn").addEventListener("click", function(){
             // 4..true >> alert >>homepage
         alert("login Success");
 
-        window.location.assign("/home.html")
+        window.location.assign("home.html")
 
     }else{
 
